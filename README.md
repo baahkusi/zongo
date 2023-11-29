@@ -1,5 +1,33 @@
 ## Decentralized P2P Protocol On Starknet
 
+A decentralized replication of centralized p2p platforms on the blockchain.
+
+### What are the use cases?
+
+- Allow users to get tokens on a different chain in a p2p fashion.
+    - For example user sends ether to a peer on the smart contract 
+    - and the peer sends ether to the user on a different chain.
+    - No need for bridges, swaps, wormholes etc ...
+- An alternative for dexes as users can also buy tokens with tokens on the same chain in a p2p fashion.
+- Allow users to get fiat for their crypto tokens in a p2p fashion.
+
+### Starknet Development
+
+Starknet Foundray -  https://foundry-rs.github.io/starknet-foundry/index.html
+
+Testnet Explorer - https://testnet.starkscan.co/
+
+Starknet Tutorials - https://www.starknet.io/en/tutorials
+
+Starknet Dapps - https://www.starknet.io/en/ecosystem/dapps
+
+Cairo Languae - https://book.cairo-lang.org/
+
+Starknet Docs - https://docs.starknet.io/documentation/
+
+
+## How does it work?
+
 ### Protocol Participants
 
 #### Trader
